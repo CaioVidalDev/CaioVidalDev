@@ -48,6 +48,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="25" alt="docker logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="25" alt="postgresql logo"  />
   <img width="8" />
+
+  
 </div>
 
 #
@@ -55,10 +57,12 @@
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
+  <img align="right" alt="Rafa-Vidal" src="https://cdn.discordapp.com/attachments/853837473880997948/1235817843719798825/picasion.com_63b718f1db06db520c73fb0c5181873d.gif?ex=6635c08e&is=66346f0e&hm=992dab73dcc86845dbc4e6eb88381a8ef0a361c04059ce670b8fa0520e50773d&.gif">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CaioVidalDev&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
 
    <a href="https://github.com/CaioVidalDev/github-readme-stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CaioVidalDev&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+     
   </a>
 </div>
 
