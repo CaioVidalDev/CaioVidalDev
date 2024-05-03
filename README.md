@@ -48,3 +48,8 @@
   <img align="right" alt="Rafa-Vidal" src="https://cdn.discordapp.com/attachments/853837473880997948/1235817843719798825/picasion.com_63b718f1db06db520c73fb0c5181873d.gif?ex=6635c08e&is=66346f0e&hm=992dab73dcc86845dbc4e6eb88381a8ef0a361c04059ce670b8fa0520e50773d&.gif">
 </h1>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaioVidalDev/CaioVidalDev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaioVidalDev/CaioVidalDev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CaioVidalDev/CaioVidalDev/output/github-contribution-grid-snake.svg">
+</picture>
