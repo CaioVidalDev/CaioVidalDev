@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<img align="center" alt="" src="./src/header-gif.gif">
+<img align="center" alt="" src="./src/header.png.png">
 
 #
 
@@ -14,7 +14,7 @@
 
 #
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" height="190px" src="./src/study.gif.gif">
 
 <h3 align="left">Connect with me!</h3>
 
@@ -36,7 +36,6 @@
   <img width="8" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="25" alt="java logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg" height="25" alt="spring logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="25" alt="c logo"  />
   <img width="8" />
