@@ -73,3 +73,12 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaioVidalDev/CaioVidalDev/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CaioVidalDev/CaioVidalDev/output/github-contribution-grid-snake.svg">
 </picture>
+
+#
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=993399&center=true&vCenter=true&random=false&width=524&lines=Thank+you+for+your+attention!" alt="Typing SVG">
+  </a>
+</div>
+
