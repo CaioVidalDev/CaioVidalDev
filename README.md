@@ -9,6 +9,7 @@
 - 🌱 I'm currently studying Java, Spring Boot, JavaScript, React, TypeScript ...
 </div>
 
+
 ## 
 
 <div align="center"  >
@@ -27,7 +28,7 @@
   <img align="center" alt="Rafa-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
   <img align="center" alt="Rafa-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
   <img align="center" alt="Rafa-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img align="right" alt="Rafa-Vidal" src="https://cdn.discordapp.com/attachments/853837473880997948/1235817843719798825/picasion.com_63b718f1db06db520c73fb0c5181873d.gif?ex=6635c08e&is=66346f0e&hm=992dab73dcc86845dbc4e6eb88381a8ef0a361c04059ce670b8fa0520e50773d&.gif">
+
 
 </div>
 
@@ -44,4 +45,6 @@
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+  <img align="right" alt="Rafa-Vidal" src="https://cdn.discordapp.com/attachments/853837473880997948/1235817843719798825/picasion.com_63b718f1db06db520c73fb0c5181873d.gif?ex=6635c08e&is=66346f0e&hm=992dab73dcc86845dbc4e6eb88381a8ef0a361c04059ce670b8fa0520e50773d&.gif">
 </h1>
+
