@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=993399&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
@@ -8,9 +8,9 @@
 
 #
 
-<p align="center">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Facens (Faculdade de Engenharia de Sorocaba), porém, já completei dois anos em Ciências da Computação pela UFSCar e possuo diploma técnico em Administração.
-Me interesso tanto por front quanto por back-end, e minhas principais linguagens são Java e JavaScript. 
-Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
+<p align="center">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e apos termino, vou começar Sistema de Informação (SI) no Centro Universitário Fametro (Unifametro) e sou Web Developer.
+  Me interesso tanto por Front-end e Back-end, estou desenvolvendo habilidades em Java, Spring Boot, JavaScript, Linux, SQLite, PostgreSQL, UX/UI e minhas principais linguagens são Java e JavaScript.
+  Eu estudo, densenvolvo, programo e me atualizo na área da tecnologia constantemente, pois amo aprender e utilizar meus conhecimentos para criar soluções inovadoras!
 
 #
 
