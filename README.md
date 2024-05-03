@@ -2,9 +2,16 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Caio+Vidal+!;" />
 </h1>
 
-## I am Software Developer !
 
-<div align="center" >
+<div  align="center" >
+  - 🔭I am Software Developer 
+  <br>
+- 🌱 I'm currently studying Java, Spring Boot, JavaScript, React, TypeScript ...
+</div>
+
+## 
+
+<div>
   
 <a href="https://beacons.ai/CaioVidalDev ">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioVidalDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioVidalDev&layout=compact&langs_count=16&theme=dracula"/>
@@ -24,9 +31,7 @@
 
 </div>
 
-
-  ##
-
+##
   
 <div align="center" > 
 <a href="https://www.linkedin.com/in/caio-nobre-vidal-silva-23669b270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -35,6 +40,7 @@
   <a href = "https://github.com/CaioVidalDev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
 
+##
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
