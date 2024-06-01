@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<img align="center" alt="" src="./src/banner.png.png">
+<img align="center" alt="" src="./src/BannerCaioVidalDev.png">
 
 #
 
