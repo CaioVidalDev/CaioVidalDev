@@ -9,7 +9,7 @@
 #
 
 <p align="center">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e apos termino, vou começar Sistema de Informação (SI) no Centro Universitário Fametro (Unifametro) e sou Full-stack Developer.
-  Me interesso tanto por Front-end e Back-end, estou desenvolvendo habilidades em Java, Spring , Selenium, PHP, Laravel, PEST, junit, PHPunit , Linux, SQLite, SQLite, PostegreSQL, HTML5, CSS3 , UX/UI e minhas principais linguagens são Java e PHP.
+  Me interesso tanto por Front-end e Back-end, estou desenvolvendo habilidades em Java, Spring , Selenium, PHP, Laravel, PEST, junit, PHPunit, NodeJS , Linux, SQLite, SQLite, PostegreSQL, HTML5, CSS3 , UX/UI e minhas principais linguagens são Java e PHP.
   Eu estudo, densenvolvo, programo e me atualizo na área da tecnologia constantemente, pois amo aprender e utilizar meus conhecimentos para criar soluções inovadoras!
 
 #
@@ -33,6 +33,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="25" alt="html5 logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="25" alt="html5 logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
   <img width="8" />
