@@ -8,8 +8,8 @@
 
 #
 
-<p align="center">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e apos termino, vou começar Sistema de Informação (SI) no Centro Universitário Fametro (Unifametro) e sou Full-stack Developer Intern.
-  Me interesso tanto por Front-end e Back-end, estou desenvolvendo habilidades em Java, Spring , Selenium , Linux, SQLite, HTML5, CSS3 , UX/UI e minhas principais linguagens são Java e JavaScript.
+<p align="center">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e apos termino, vou começar Sistema de Informação (SI) no Centro Universitário Fametro (Unifametro) e sou Full-stack Developer.
+  Me interesso tanto por Front-end e Back-end, estou desenvolvendo habilidades em Java, Spring , Selenium, PHP, Laravel, PEST, junit, PHPunit , Linux, SQLite, SQLite, PostegreSQL, HTML5, CSS3 , UX/UI e minhas principais linguagens são Java e PHP.
   Eu estudo, densenvolvo, programo e me atualizo na área da tecnologia constantemente, pois amo aprender e utilizar meus conhecimentos para criar soluções inovadoras!
 
 #
